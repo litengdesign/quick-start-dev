@@ -1752,7 +1752,7 @@ __webpack_require__.r(__webpack_exports__);
 var environment = {
     production: false,
     evnName: 'dev',
-    API: 'http://www.hzscbg.com/8080',
+    API: 'http://www.hzscbg.com:8080',
 };
 /*
  * For easier debugging in development mode, you can import the following file
